@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)
+![MasterHead](https://t4.ftcdn.net/jpg/08/50/30/01/360_F_850300178_2R0d9z8EiG6hN8Yj5QaBEYJAEVFflJly.jpg)
 <h1 align="center">Hi 👋, I'm kiochii</h1>
 <h3 align="center">Ambitious and Powerful Developer in Turkey</h3>
 <div align="center">
